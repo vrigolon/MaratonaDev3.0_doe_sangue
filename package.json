@@ -1,0 +1,27 @@
+{
+  "name": "MaratonaDev3",
+  "version": "1.0.0",
+  "description": "Website para doaçao de sangue feito durante a Maratona Dev 3 da Rocketseat",
+  "main": "scripts.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2",
+    "nunjucks": "^3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vrigolon/MaratonaDev3.0_doe_sangue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vrigolon/MaratonaDev3.0_doe_sangue/issues"
+  },
+  "homepage": "https://github.com/vrigolon/MaratonaDev3.0_doe_sangue#readme"
+}
