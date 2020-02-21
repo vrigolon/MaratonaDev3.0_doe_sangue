@@ -9,13 +9,13 @@
 
 ### Tecnologias utilizadas:
 
-	* HTML
-	* CSS
-	* JavaScript
-	* Node.js
-	* Express
-	* Nunjucks
-	* PostgreSQL
+* HTML
+* CSS
+* JavaScript
+* Node.js
+* Express
+* Nunjucks
+* PostgreSQL
 
 
 
