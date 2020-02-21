@@ -1,7 +1,21 @@
-# MaratonaDev3.0_doe_sangue
-Website para registro de doadores de sangue.
-Maratona Dev 3 da Rocketseat
+## Maratona Dev 3 - Rocketseat
 
-Em andamento...
+### Website Doe Sangue :heart:
+
+	O objetivo da aplicação é obter e armazenar dados de usuários que estejam dispostos a doar sangue.
+
+### Demo:
+![Demo Doe Sangue](demo.gif)
+
+### Tecnologias utilizadas:
+
+	* HTML
+	* CSS
+	* JavaScript
+	* Node.js
+	* Express
+	* Nunjucks
+	* PostgreSQL
+
 
 
